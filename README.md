@@ -16,6 +16,9 @@ I wanted to use the hard drive to cache files that are in remote storage like Am
  - Returns streams, not buffers, for faster requests.
  - How it chooses which files to delete can be customized
 
+# Free support
+Email me or create an issue if you need help! I'm throwing this up without a lot of documentation, and am very welcome to feedback and suggestions.
+
 # Example
 
 ```coffee
