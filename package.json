@@ -1,6 +1,6 @@
 {
   "name": "cachecow",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An on-disk cache for files with various garbage collection options.",
   "main": "cachecow",
   "scripts": {
