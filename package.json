@@ -1,0 +1,20 @@
+{
+  "name": "cachecow",
+  "version": "0.0.0",
+  "description": "An on-disk cache for files with flexible garbage collection.",
+  "main": "cachecow",
+  "scripts": {
+    "test": "mocha",
+    "prepublish": "coffee -c ./"
+  },
+  "author": "William Hilton <wmhilton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.26.7",
+    "upath": "^0.1.7"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "mocha": "^2.5.3"
+  }
+}

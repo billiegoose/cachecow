@@ -1,0 +1,3 @@
+# CoffeeScript in git, JavaScript in npm
+*.js
+node_modules
